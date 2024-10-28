@@ -1,0 +1,14 @@
+C:\Users\xogoj\restaurantMenu\bin\Debug\net7.0\restaurantMenu.exe
+C:\Users\xogoj\restaurantMenu\bin\Debug\net7.0\restaurantMenu.deps.json
+C:\Users\xogoj\restaurantMenu\bin\Debug\net7.0\restaurantMenu.runtimeconfig.json
+C:\Users\xogoj\restaurantMenu\bin\Debug\net7.0\restaurantMenu.dll
+C:\Users\xogoj\restaurantMenu\bin\Debug\net7.0\restaurantMenu.pdb
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.AssemblyInfoInputs.cache
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.AssemblyInfo.cs
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.dll
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\refint\restaurantMenu.dll
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.pdb
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\restaurantMenu.genruntimeconfig.cache
+C:\Users\xogoj\restaurantMenu\obj\Debug\net7.0\ref\restaurantMenu.dll
